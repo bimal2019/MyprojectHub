@@ -1,0 +1,11 @@
+eshopping\eshopping\App.class
+eshopping\eshopping\db\configuration\DbConfig.class
+eshopping\eshopping\request\model\ProductUpdateRequest.class
+eshopping\eshopping\EshoppingDashboardController.class
+eshopping\eshopping\service\ProductService.class
+eshopping\eshopping\dao\entity\Product.class
+eshopping\eshopping\dao\IProductDao.class
+eshopping\eshopping\ReturnByCategoryController.class
+eshopping\eshopping\request\model\ProductsRequest.class
+eshopping\eshopping\ReturnByCategoryAndAvailibilityController.class
+eshopping\eshopping\dao\impl\ProductDaoImpl.class
